@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div className='text-center px-4 sm:px-6 lg:px-8'>
-      <button className='rounded-full bg-zinc-50 text-black p-2 mb-10 text-sm sm:text-base lg:text-lg'>
+      <button className='rounded-full bg-zinc-50 text-black p-2 mb-20 text-sm sm:text-base lg:text-lg'>
         COMING SOON
       </button>
       <div className='text-3xl sm:text-4xl lg:text-5xl'>
